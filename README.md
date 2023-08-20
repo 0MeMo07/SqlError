@@ -43,3 +43,7 @@ This tool is for educational and informational purposes only. Use it responsibly
 ## License
 
 This project is licensed under the MIT License.
+
+## Support me
+
+<a href="https://www.buymeacoffee.com/SmakeMeMo" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee">
