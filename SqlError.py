@@ -29,7 +29,7 @@ def check_sql_injection(url):
         soup = BeautifulSoup(response.content, "html.parser")
         page_text = soup.get_text()
         
-        if "SQL syntax" in page_text or "MySQL Query Error" in page_text:
+        if "SQL syntax" in page_text or "MySQL Query Error" in page_text or "Fatal error" in page_text or "Uncaught Error" in page_text:
             return True
         else:
             return False
